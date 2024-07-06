@@ -12,6 +12,9 @@
 4. Shifted Binary Search:
     - [Recursive Method](https://github.com/rugvedmhatre/algorithms-practice/blob/main/AlgoExpert/Searching/shifted_binary_search_recursive.py)
     - [Iterative Method](https://github.com/rugvedmhatre/algorithms-practice/blob/main/AlgoExpert/Searching/shifted_binary_search_iterative.py)
+5. Search For Range:
+    - [Recursive Method](https://github.com/rugvedmhatre/algorithms-practice/blob/main/AlgoExpert/Searching/search_for_range_recursive.py)
+    - [Iterative Method](https://github.com/rugvedmhatre/algorithms-practice/blob/main/AlgoExpert/Searching/search_for_range_iterative.py)
 
 ### Sorting
 
