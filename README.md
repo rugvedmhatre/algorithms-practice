@@ -9,6 +9,9 @@
     - [Iterative Method](https://github.com/rugvedmhatre/algorithms-practice/blob/main/AlgoExpert/Searching/binary_search_iterative.py)
 2. [Find Three Largest Numbers](https://github.com/rugvedmhatre/algorithms-practice/blob/main/AlgoExpert/Searching/find_three_largest_numbers.py)
 3. [Search in Sorted Matrix](https://github.com/rugvedmhatre/algorithms-practice/blob/main/AlgoExpert/Searching/search_in_sorted_matrix.py)
+4. Shifted Binary Search:
+    - [Recursive Method](https://github.com/rugvedmhatre/algorithms-practice/blob/main/AlgoExpert/Searching/shifted_binary_search_recursive.py)
+    - [Iterative Method](https://github.com/rugvedmhatre/algorithms-practice/blob/main/AlgoExpert/Searching/shifted_binary_search_iterative.py)
 
 ### Sorting
 
