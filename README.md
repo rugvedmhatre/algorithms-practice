@@ -16,6 +16,10 @@
     - [Recursive Method](https://github.com/rugvedmhatre/algorithms-practice/blob/main/AlgoExpert/Searching/search_for_range_recursive.py)
     - [Iterative Method](https://github.com/rugvedmhatre/algorithms-practice/blob/main/AlgoExpert/Searching/search_for_range_iterative.py)
 6. [Quick Select](https://github.com/rugvedmhatre/algorithms-practice/blob/main/AlgoExpert/Searching/quick_select.py)
+7. Index Equals Value:
+    - [Brute Force Method](https://github.com/rugvedmhatre/algorithms-practice/blob/main/AlgoExpert/Searching/index_equals_value_brute_force.py)
+    - [Recursive Method](https://github.com/rugvedmhatre/algorithms-practice/blob/main/AlgoExpert/Searching/index_equals_value_recursive.py)
+    - [Iterative Method](https://github.com/rugvedmhatre/algorithms-practice/blob/main/AlgoExpert/Searching/index_equals_value_iterative.py)
 
 ### Sorting
 
