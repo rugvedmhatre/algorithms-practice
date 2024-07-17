@@ -2,6 +2,9 @@
 
 ## AlgoExpert Algorithm Questions
 
+### Binary Search Trees
+1. [Binary Search Tree Construction](https://github.com/rugvedmhatre/algorithms-practice/blob/main/AlgoExpert/BST/bst_construction.py)
+
 ### Searching
 
 1. Binary Search:
