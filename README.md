@@ -8,6 +8,7 @@
     - [Recursive Method](https://github.com/rugvedmhatre/algorithms-practice/blob/main/AlgoExpert/BST/find_closest_value_in_bst_recursive.py)
     - [Iterative Method](https://github.com/rugvedmhatre/algorithms-practice/blob/main/AlgoExpert/BST/find_closest_value_in_bst_iterative.py)
 3. [Validate BST](https://github.com/rugvedmhatre/algorithms-practice/blob/main/AlgoExpert/BST/validate_bst.py)
+4. [BST Traversal](https://github.com/rugvedmhatre/algorithms-practice/blob/main/AlgoExpert/BST/bst_traversal.py)
 
 ### Searching
 
