@@ -45,3 +45,19 @@
     - [First Method](https://github.com/rugvedmhatre/algorithms-practice/blob/main/AlgoExpert/Sorting/merge_sort_first_method.py)
     - [Second Method](https://github.com/rugvedmhatre/algorithms-practice/blob/main/AlgoExpert/Sorting/merge_sort_second_method.py)
 9. [Count Inversions](https://github.com/rugvedmhatre/algorithms-practice/blob/main/AlgoExpert/Sorting/count_inversions.py)
+
+## LeetCode Problems
+
+### LeetCode 75
+
+1. Merge Strings Alternately
+2. Greatest Common Divisor of Strings
+3. Kids with the Greatest Number of Candies
+4. Can Place Flowers
+5. Reverse Vowels of a String
+6. Reverse Words in a String
+7. Product of Array Except Self
+8. Increasing Triplet Sequence
+9. String Compression
+10. [Move Zeros](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/283-move_zeros.py)
+11. [Is Subsequence](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/392-is_subsequence.py)
