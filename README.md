@@ -69,3 +69,4 @@
 ### NeetCode 150
 
 1. [Contains Duplicate](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/217-contains_duplicate.py)
+2. [Valid Anagram](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/242-valid_anagram.py)
