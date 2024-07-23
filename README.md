@@ -61,3 +61,4 @@
 9. String Compression
 10. [Move Zeros](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/283-move_zeros.py)
 11. [Is Subsequence](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/392-is_subsequence.py)
+12. [Container with Most Water](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/11-container_with_most_water.py)
