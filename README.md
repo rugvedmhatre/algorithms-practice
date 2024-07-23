@@ -65,3 +65,7 @@
 13. [Max Number of K-Sum Pairs](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/1679-max_number_of_k_sum_pairs.py)
 14. [Maximum Average Subarray I](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/643-maximum_average_subarray_1.py)
 15. [Maximum Number of Vowels in a Substring of Given Length](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/1456-maximum_number_of_vowels_in_a_substring_of_given_length.py)
+
+### NeetCode 150
+
+1. [Contains Duplicate](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/217-contains_duplicate.py)
