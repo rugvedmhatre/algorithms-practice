@@ -56,7 +56,7 @@
 4. Can Place Flowers
 5. Reverse Vowels of a String
 6. Reverse Words in a String
-7. Product of Array Except Self
+7. [Product of Array Except Self](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/238-product_of_array_except_self.py)
 8. Increasing Triplet Sequence
 9. String Compression
 10. [Move Zeros](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/283-move_zeros.py)
@@ -76,3 +76,4 @@ __Arrays & Hashing__
 4. [Group Anagrams](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/49-group_anagrams.py)
 5. [Top K Frequent Elements](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/347-top_k_frequent_elements.py)
 6. [Encode and Decode Strings](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/271-encode_and_decode_strings.py)
+7. [Product of Array Except Self](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/238-product_of_array_except_self.py)
