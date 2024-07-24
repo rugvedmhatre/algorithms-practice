@@ -68,6 +68,9 @@
 
 ### NeetCode 150
 
+__Arrays & Hashing__
+
 1. [Contains Duplicate](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/217-contains_duplicate.py)
 2. [Valid Anagram](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/242-valid_anagram.py)
 3. [Two Sum](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/1-two_sum.py)
+4. [Group Anagrams](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/49-group_anagrams.py)
