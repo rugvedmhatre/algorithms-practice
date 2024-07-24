@@ -9,6 +9,10 @@
     - [Iterative Method](https://github.com/rugvedmhatre/algorithms-practice/blob/main/AlgoExpert/BST/find_closest_value_in_bst_iterative.py)
 3. [Validate BST](https://github.com/rugvedmhatre/algorithms-practice/blob/main/AlgoExpert/BST/validate_bst.py)
 4. [BST Traversal](https://github.com/rugvedmhatre/algorithms-practice/blob/main/AlgoExpert/BST/bst_traversal.py)
+5. Min Height BST
+    - [Naive Approach](https://github.com/rugvedmhatre/algorithms-practice/blob/main/AlgoExpert/BST/min_height_bst_first_method.py)
+    - [Improved Approach](https://github.com/rugvedmhatre/algorithms-practice/blob/main/AlgoExpert/BST/min_height_bst_second_method.py)
+    - [Improved Approach with Cleaner Code](https://github.com/rugvedmhatre/algorithms-practice/blob/main/AlgoExpert/BST/min_height_bst_third_method.py)
 
 ### Searching
 
