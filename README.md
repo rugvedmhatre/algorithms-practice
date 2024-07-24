@@ -78,3 +78,4 @@ __Arrays & Hashing__
 6. [Encode and Decode Strings](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/271-encode_and_decode_strings.py)
 7. [Product of Array Except Self](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/238-product_of_array_except_self.py)
 8. [Valid Sudoku](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/36-valid_sudoku.py)
+9. [Longest Consecutive Sequence](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/128-longest_consecutive_sequence.py)
