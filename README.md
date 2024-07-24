@@ -74,3 +74,4 @@ __Arrays & Hashing__
 2. [Valid Anagram](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/242-valid_anagram.py)
 3. [Two Sum](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/1-two_sum.py)
 4. [Group Anagrams](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/49-group_anagrams.py)
+5. [Top K Frequent Elements](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/347-top_k_frequent_elements.py)
