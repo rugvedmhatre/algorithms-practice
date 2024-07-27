@@ -89,3 +89,8 @@ __Two Pointers__
 10. [Valid Palindrome](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/125-valid_palindrome.py)
 11. [Two Sum II - Input Array is Sorted](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/167-two_sum_2_input_array_is_sorted.py)
 12. [3Sum](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/15-3Sum.py)
+13. [Container with Most Water](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/11-container_with_most_water.py)
+14. Trapping Rain Water
+
+__Sliding Window__
+15. [Best Time to Buy and Sell Stock](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/121-best_time_to_buy_and_sell_stock.py)
