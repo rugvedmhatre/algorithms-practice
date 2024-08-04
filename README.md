@@ -96,3 +96,4 @@ __Sliding Window__
 
 15. [Best Time to Buy and Sell Stock](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/121-best_time_to_buy_and_sell_stock.py)
 16. [Longest Substring Without Repeating Characters](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/3-longest_substring_without_repeating_characters.py)
+17. [Longest Repeating Character Replacement](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/424-longest_repeating_character_replacement.py)
