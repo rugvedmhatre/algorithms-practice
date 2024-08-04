@@ -90,7 +90,7 @@ __Two Pointers__
 11. [Two Sum II - Input Array is Sorted](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/167-two_sum_2_input_array_is_sorted.py)
 12. [3Sum](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/15-3Sum.py)
 13. [Container with Most Water](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/11-container_with_most_water.py)
-14. Trapping Rain Water
+14. [Trapping Rain Water](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/42-trapping_rain_water.py)
 
 __Sliding Window__
 
