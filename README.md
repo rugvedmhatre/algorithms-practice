@@ -98,3 +98,4 @@ __Sliding Window__
 16. [Longest Substring Without Repeating Characters](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/3-longest_substring_without_repeating_characters.py)
 17. [Longest Repeating Character Replacement](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/424-longest_repeating_character_replacement.py)
 18. [Permutation In String](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/567-permutation_in_string.py)
+19. [Minimum Window Substring](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/76-minimum_window_substring.py)
