@@ -55,10 +55,10 @@
 ### LeetCode 75
 
 1. [Merge Strings Alternately](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/1768-merge_strings_alternately.py)
-2. Greatest Common Divisor of Strings
-3. Kids with the Greatest Number of Candies
-4. Can Place Flowers
-5. Reverse Vowels of a String
+2. [Greatest Common Divisor of Strings](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/1071-greatest_common_divisor_of_strings.py)
+3. [Kids with the Greatest Number of Candies](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/1431-kids_with_the_greatest_number_of_candies.py)
+4. [Can Place Flowers](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/605-can_place_flowers.py)
+5. [Reverse Vowels of a String](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/345-reverse_vowels_of_a_string.py)
 6. Reverse Words in a String
 7. [Product of Array Except Self](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/238-product_of_array_except_self.py)
 8. Increasing Triplet Sequence
