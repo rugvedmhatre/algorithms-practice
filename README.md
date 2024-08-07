@@ -54,7 +54,7 @@
 
 ### LeetCode 75
 
-1. Merge Strings Alternately
+1. [Merge Strings Alternately](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/1768-merge_strings_alternately.py)
 2. Greatest Common Divisor of Strings
 3. Kids with the Greatest Number of Candies
 4. Can Place Flowers
