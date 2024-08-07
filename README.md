@@ -61,8 +61,8 @@
 5. [Reverse Vowels of a String](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/345-reverse_vowels_of_a_string.py)
 6. [Reverse Words in a String](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/151-reverse_words_in_a_string.py)
 7. [Product of Array Except Self](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/238-product_of_array_except_self.py)
-8. Increasing Triplet Sequence
-9. String Compression
+8. [Increasing Triplet Sequence](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/334-increaasing_triplet_sequence.py)
+9. [String Compression](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/443-string_compression.py)
 10. [Move Zeros](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/283-move_zeros.py)
 11. [Is Subsequence](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/392-is_subsequence.py)
 12. [Container with Most Water](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/11-container_with_most_water.py)
