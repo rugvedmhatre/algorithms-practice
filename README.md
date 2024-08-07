@@ -59,7 +59,7 @@
 3. [Kids with the Greatest Number of Candies](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/1431-kids_with_the_greatest_number_of_candies.py)
 4. [Can Place Flowers](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/605-can_place_flowers.py)
 5. [Reverse Vowels of a String](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/345-reverse_vowels_of_a_string.py)
-6. Reverse Words in a String
+6. [Reverse Words in a String](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/151-reverse_words_in_a_string.py)
 7. [Product of Array Except Self](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/238-product_of_array_except_self.py)
 8. Increasing Triplet Sequence
 9. String Compression
