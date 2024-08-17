@@ -13,6 +13,9 @@
     - [Naive Approach](https://github.com/rugvedmhatre/algorithms-practice/blob/main/AlgoExpert/BST/min_height_bst_first_method.py)
     - [Improved Approach](https://github.com/rugvedmhatre/algorithms-practice/blob/main/AlgoExpert/BST/min_height_bst_second_method.py)
     - [Improved Approach with Cleaner Code](https://github.com/rugvedmhatre/algorithms-practice/blob/main/AlgoExpert/BST/min_height_bst_third_method.py)
+6. Find Kth Largest Value in BST
+    - [Naive Approach](https://github.com/rugvedmhatre/algorithms-practice/blob/main/AlgoExpert/BST/find_kth_largest_value_in_bst_first_method.py)
+    - [Improved Approach](https://github.com/rugvedmhatre/algorithms-practice/blob/main/AlgoExpert/BST/find_kth_largest_value_in_bst_second_method.py)
 
 ### Searching
 
