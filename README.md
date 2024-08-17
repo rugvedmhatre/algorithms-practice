@@ -107,3 +107,4 @@ __Sliding Window__
 __Stack__
 
 21. [Valid Parentheses](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/20-valid_parentheses.py)
+22. [Min Stack](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/155-min_stack.py)
