@@ -111,3 +111,4 @@ __Stack__
 23. [Evaluate Reverse Polish Notation](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/150-evaluate_reverse_polish_notation.py)
 24. [Generate Parentheses](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/22-generate_parantheses.py)
 25. [Daily Temperatures](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/739-daily_temperatures.py)
+26. [Car Fleet](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/853-car_fleet.py)
