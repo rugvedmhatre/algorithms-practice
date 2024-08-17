@@ -108,3 +108,4 @@ __Stack__
 
 21. [Valid Parentheses](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/20-valid_parentheses.py)
 22. [Min Stack](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/155-min_stack.py)
+23. [Evaluate Reverse Polish Notation](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/150-evaluate_reverse_polish_notation.py)
