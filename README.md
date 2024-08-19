@@ -112,3 +112,8 @@ __Stack__
 24. [Generate Parentheses](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/22-generate_parantheses.py)
 25. [Daily Temperatures](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/739-daily_temperatures.py)
 26. [Car Fleet](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/853-car_fleet.py)
+27. Largest Rectangle In Histogram
+
+__Binary Search__
+
+28. [Binary Search](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/704-binary_search.py)
