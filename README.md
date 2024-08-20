@@ -118,3 +118,4 @@ __Binary Search__
 
 28. [Binary Search](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/704-binary_search.py)
 29. [Search a 2D Matrix](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/74-search_a_2D_matrix.py)
+30. [Koko Eating Bananas](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/875-koko_eating_bananas.py)
