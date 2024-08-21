@@ -121,3 +121,4 @@ __Binary Search__
 30. [Koko Eating Bananas](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/875-koko_eating_bananas.py)
 31. [Find Minimum in Rotated Sorted Array](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/153-find_minimum_in_rotated_sorted_array.py)
 32. [Search in Rotated Sorted Array](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/33-search_in_rotated_sorted_array.py)
+33. [Time Based Key-Value Store](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/981-time_based_key_value_store.py)
