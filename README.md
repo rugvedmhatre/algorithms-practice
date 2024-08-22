@@ -128,3 +128,4 @@ __Linked List__
 
 35. [Reverse Linked List](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/206-reverse_linked_list.py)
 36. [Merge Two Sorted Lists](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/21-merge_two_sorted_lists.py)
+37. [Reorder List](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/143-reorder_list.py)
