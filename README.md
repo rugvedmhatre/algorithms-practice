@@ -123,3 +123,7 @@ __Binary Search__
 32. [Search in Rotated Sorted Array](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/33-search_in_rotated_sorted_array.py)
 33. [Time Based Key-Value Store](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/981-time_based_key_value_store.py)
 34. [Median of Two Sorted Arrays](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/4-median_of_two_sorted_arrays.py)
+
+__Linked List__
+
+35. [Reverse Linked List](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/206-reverse_linked_list.py)
