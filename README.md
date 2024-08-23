@@ -131,3 +131,4 @@ __Linked List__
 37. [Reorder List](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/143-reorder_list.py)
 38. [Remove Nth Node From End of List](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/19-remove_nth_node_from_end_of_list.py)
 39. [Copy List with Random Pointer](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/138-copy_list_with_random_pointer.py)
+40. [Add Two Numbers](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/2-add_two_numbers.py)
