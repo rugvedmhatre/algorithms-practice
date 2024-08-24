@@ -135,3 +135,4 @@ __Linked List__
 41. [Linked List Cycle](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/141-linked_list_cycle.py)
 42. [Find the Duplicate Number](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/287-find_the_duplicate_number.py)
 43. [LRU Cache](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/146-LRU_cache.py)
+44. [Merge K Sorted Lists](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/23-merge_k_sorted_lists.py)
