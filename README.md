@@ -134,3 +134,4 @@ __Linked List__
 40. [Add Two Numbers](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/2-add_two_numbers.py)
 41. [Linked List Cycle](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/141-linked_list_cycle.py)
 42. [Find the Duplicate Number](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/287-find_the_duplicate_number.py)
+43. [LRU Cache](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/146-LRU_cache.py)
