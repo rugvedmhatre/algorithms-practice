@@ -137,3 +137,7 @@ __Linked List__
 43. [LRU Cache](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/146-LRU_cache.py)
 44. [Merge K Sorted Lists](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/23-merge_k_sorted_lists.py)
 45. [Reverse Nodes in k-Group](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/25-reverse_nodes_in_k_group.py)
+
+__Trees__
+
+46. [Invert Binary Tree](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/226-invert_binary_tree.py)
