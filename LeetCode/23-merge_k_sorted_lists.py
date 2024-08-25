@@ -40,18 +40,7 @@ Constraints:
 
 """
 
-class ListNode:
-    def __init__(self, val=0, next=None):
-        self.val = val
-        self.next = next
-    
-    def __str__(self):
-        head = self
-        result = []
-        while head != None:
-            result.append(str(head.val))
-            head = head.next
-        return '[' + ','.join(result) + ']'
+from data_structures import ListNode
 
 def mergeKLists(lists: list[ListNode]) -> ListNode:
     if not lists or len(lists) == 0:

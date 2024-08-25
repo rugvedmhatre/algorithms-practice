@@ -32,18 +32,7 @@ Follow-up: Can you solve the problem in O(1) extra memory space?
 
 """
 
-class ListNode:
-    def __init__(self, val=0, next=None):
-        self.val = val
-        self.next = next
-    
-    def __str__(self):
-        head = self
-        result = []
-        while head != None:
-            result.append(str(head.val))
-            head = head.next
-        return '[' + ','.join(result) + ']'
+from data_structures import ListNode
 
 def reverseKGroup(head: ListNode, k: int) -> ListNode:
     dummy = ListNode(0, head)

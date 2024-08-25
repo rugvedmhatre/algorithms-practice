@@ -29,18 +29,7 @@ or recursively. Could you implement both?
 
 """
 
-class ListNode:
-    def __init__(self, val=0, next=None):
-        self.val = val
-        self.next = next
-    
-    def __str__(self):
-        head = self
-        result = []
-        while head != None:
-            result.append(str(head.val))
-            head = head.next
-        return '[' + ','.join(result) + ']'
+from data_structures import ListNode
 
 def reverseList(head: ListNode) -> ListNode:
     prev = None

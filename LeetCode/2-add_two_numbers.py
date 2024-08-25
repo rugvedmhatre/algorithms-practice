@@ -34,18 +34,7 @@ Constraints:
 
 """
 
-class ListNode:
-    def __init__(self, val=0, next=None):
-        self.val = val
-        self.next = next
-    
-    def __str__(self):
-        head = self
-        result = []
-        while head != None:
-            result.append(str(head.val))
-            head = head.next
-        return '[' + ','.join(result) + ']'
+from data_structures import ListNode
 
 def addTwoNumbers(l1: ListNode, l2: ListNode) -> ListNode:
     result = ListNode()
