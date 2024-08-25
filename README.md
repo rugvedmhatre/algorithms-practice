@@ -144,3 +144,4 @@ __Trees__
 47. [Maximum Depth of Binary Tree](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/104-maximum_depth_of_binary_tree.py)
 48. [Diameter of Binary Tree](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/543-diameter_of_binary_tree.py)
 49. [Balanced Binary Tree](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/110-balanced_binary_tree.py)
+50. [Same Tree](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/100-same_tree.py)
