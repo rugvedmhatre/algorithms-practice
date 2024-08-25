@@ -148,3 +148,4 @@ __Trees__
 51. [Subtree of Another Tree](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/572-subtree_of_another_tree.py)
 52. [Lowest Common Ancestor of Binary Search Tree](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/235-lowest_common_ancestor_of_binary_search_tree.py)
 53. [Binary Tree Level Order Traversal](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/102-binary_tree_level_order_traversal.py)
+54. [Binary Tree Right Side View](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/199-binary_tree_right_side_view.py)
