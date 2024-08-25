@@ -146,3 +146,4 @@ __Trees__
 49. [Balanced Binary Tree](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/110-balanced_binary_tree.py)
 50. [Same Tree](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/100-same_tree.py)
 51. [Subtree of Another Tree](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/572-subtree_of_another_tree.py)
+52. [Lowest Common Ancestor of Binary Search Tree](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/235-lowest_common_ancestor_of_binary_search_tree.py)
