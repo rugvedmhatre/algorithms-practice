@@ -150,3 +150,4 @@ __Trees__
 53. [Binary Tree Level Order Traversal](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/102-binary_tree_level_order_traversal.py)
 54. [Binary Tree Right Side View](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/199-binary_tree_right_side_view.py)
 55. [Count Good Nodes in Binary Tree](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/1448-count_good_nodes_in_binary_tree.py)
+56. [Validate Binary Search Tree](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/98-validate_binary_search_tree.py)
