@@ -145,3 +145,4 @@ __Trees__
 48. [Diameter of Binary Tree](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/543-diameter_of_binary_tree.py)
 49. [Balanced Binary Tree](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/110-balanced_binary_tree.py)
 50. [Same Tree](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/100-same_tree.py)
+51. [Subtree of Another Tree](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/572-subtree_of_another_tree.py)
