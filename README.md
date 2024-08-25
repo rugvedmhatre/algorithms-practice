@@ -151,3 +151,4 @@ __Trees__
 54. [Binary Tree Right Side View](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/199-binary_tree_right_side_view.py)
 55. [Count Good Nodes in Binary Tree](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/1448-count_good_nodes_in_binary_tree.py)
 56. [Validate Binary Search Tree](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/98-validate_binary_search_tree.py)
+57. [Kth Smallest Element in BST](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/230-kth_smallest_element_in_bst.py)
