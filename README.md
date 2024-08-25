@@ -142,3 +142,4 @@ __Trees__
 
 46. [Invert Binary Tree](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/226-invert_binary_tree.py)
 47. [Maximum Depth of Binary Tree](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/104-maximum_depth_of_binary_tree.py)
+48. [Diameter of Binary Tree](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/543-diameter_of_binary_tree.py)
