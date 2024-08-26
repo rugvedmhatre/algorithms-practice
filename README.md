@@ -153,3 +153,4 @@ __Trees__
 56. [Validate Binary Search Tree](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/98-validate_binary_search_tree.py)
 57. [Kth Smallest Element in BST](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/230-kth_smallest_element_in_bst.py)
 58. [Construct Binary Tree from Preorder and Inorder Traversal](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/105-construct_binary_tree_from_preorder_and_inorder_traversal.py)
+59. [Binary Tree Maximum Path Sum](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/124-binary_tree_maximum_path_sum.py)
