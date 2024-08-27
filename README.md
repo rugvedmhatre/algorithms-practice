@@ -156,3 +156,4 @@ __Trees__
 59. [Binary Tree Maximum Path Sum](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/124-binary_tree_maximum_path_sum.py)
 60. [Serialize and Deserialize Binary Tree](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/297-serialize_and_deserialize_binary_tree.py)
 61. [Kth largest Element in a Stream](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/703-kth_largest_element_in_a_stream.py)
+61. [Last Stone Weight](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/1046-last_stone_weight.py)
