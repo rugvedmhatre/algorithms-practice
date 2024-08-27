@@ -155,3 +155,4 @@ __Trees__
 58. [Construct Binary Tree from Preorder and Inorder Traversal](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/105-construct_binary_tree_from_preorder_and_inorder_traversal.py)
 59. [Binary Tree Maximum Path Sum](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/124-binary_tree_maximum_path_sum.py)
 60. [Serialize and Deserialize Binary Tree](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/297-serialize_and_deserialize_binary_tree.py)
+61. [Kth largest Element in a Stream](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/703-kth_largest_element_in_a_stream.py)
