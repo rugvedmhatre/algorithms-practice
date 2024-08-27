@@ -73,6 +73,8 @@
 14. [Maximum Average Subarray I](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/643-maximum_average_subarray_1.py)
 15. [Maximum Number of Vowels in a Substring of Given Length](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/1456-maximum_number_of_vowels_in_a_substring_of_given_length.py)
 
+---
+
 ### NeetCode 150
 
 __Arrays & Hashing__
@@ -155,6 +157,9 @@ __Trees__
 58. [Construct Binary Tree from Preorder and Inorder Traversal](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/105-construct_binary_tree_from_preorder_and_inorder_traversal.py)
 59. [Binary Tree Maximum Path Sum](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/124-binary_tree_maximum_path_sum.py)
 60. [Serialize and Deserialize Binary Tree](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/297-serialize_and_deserialize_binary_tree.py)
+
+__Heap/Priority Queue__
+
 61. [Kth largest Element in a Stream](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/703-kth_largest_element_in_a_stream.py)
 62. [Last Stone Weight](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/1046-last_stone_weight.py)
 63. [K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/973-k_closest_points_to_origin.py)
