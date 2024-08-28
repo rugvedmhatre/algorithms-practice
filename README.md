@@ -165,3 +165,4 @@ __Heap/Priority Queue__
 63. [K Closest Points to Origin](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/973-k_closest_points_to_origin.py)
 64. [Kth Largest Element in an Array](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/215-kth_largest_element_in_an_array.py)
 65. [Task Scheduler](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/621-task_scheduler.py)
+66. [Design Twitter](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/355-design_twitter.py)
