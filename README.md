@@ -167,3 +167,7 @@ __Heap/Priority Queue__
 65. [Task Scheduler](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/621-task_scheduler.py)
 66. [Design Twitter](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/355-design_twitter.py)
 67. [Find Median From Data Stream](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/295-find_median_from_data_stream.py)
+
+__Backtracking__
+
+68. [Subsets](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/78-subsets.py)
