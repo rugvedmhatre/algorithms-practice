@@ -176,3 +176,4 @@ __Backtracking__
 71. [Subsets II](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/90-subsets_ii.py)
 72. [Combination Sum II](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/40-combination_sum_ii.py)
 73. [Word Search](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/79-word_search.py)
+74. [Palindrome Partitioning](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/131-palindrome_partitioning.py)
