@@ -183,3 +183,4 @@ __Backtracking__
 __Tries__
 
 77. [Implement Trie (Prefix Tree)](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/208-implement_trie.py)
+78. [Design Add and Search Words Data Structure](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/211-design_add_and_search_words_data_structure.py)
