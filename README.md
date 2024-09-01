@@ -189,3 +189,4 @@ __Tries__
 __Graphs__
 
 80. [Number of Islands](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/200-number_of_islands.py)
+81. [Max Area of Island](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/695-max_area_of_island.py)
