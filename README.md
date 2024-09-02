@@ -192,3 +192,4 @@ __Graphs__
 81. [Max Area of Island](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/695-max_area_of_island.py)
 82. [Clone Graph](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/133-clone_graph.py)
 83. [Walls and Gates](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/286-walls_and_gates.py)
+84. [Rotting Oranges](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/994-rotting_oranges.py)
