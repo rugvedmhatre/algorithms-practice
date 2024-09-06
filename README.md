@@ -198,3 +198,4 @@ __Graphs__
 87. [Course Schedule](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/207-course_schedule.py)
 88. [Course Schedule II](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/210-course_schedule-ii.py)
 89. [Graph Valid Tree](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/261-graph_valid_tree.py)
+90. [Number of Connected Components in an Undirected Graph](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/323-number_of_connected_components_in_an_undirected_graph.py)
