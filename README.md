@@ -197,3 +197,4 @@ __Graphs__
 86. [Surrounded Regions](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/130-surrounded_regions.py)
 87. [Course Schedule](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/207-course_schedule.py)
 88. [Course Schedule II](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/210-course_schedule-ii.py)
+89. [Graph Valid Tree](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/261-graph_valid_tree.py)
