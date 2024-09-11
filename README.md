@@ -201,3 +201,7 @@ __Graphs__
 90. [Number of Connected Components in an Undirected Graph](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/323-number_of_connected_components_in_an_undirected_graph.py)
 91. [Redundant Connection](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/684-redundant_connection.py)
 92. [Word Ladder](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/127-word_ladder.py)
+
+__Advanced Graphs__
+
+93. [Reconstruct Itinerary](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/332-reconstruct_itinerary.py)
