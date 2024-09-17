@@ -210,3 +210,7 @@ __Advanced Graphs__
 96. [Swim in Rising Water](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/778-swim_in_rising_water.py)
 97. [Alien Dictionary](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/269-alien_dictionary.py)
 98. [Cheapest Flights Within K Stops](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/787-cheapest_flights_within_k_stops.py)
+
+__1D Dynamic Programming__
+
+99. [Climbing Stairs](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/70-climbing_stairs.py)
