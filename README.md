@@ -214,3 +214,4 @@ __Advanced Graphs__
 __1D Dynamic Programming__
 
 99. [Climbing Stairs](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/70-climbing_stairs.py)
+100. [Min Cost Climbing Stairs](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/746-min_cost_climbing_stairs.py)
