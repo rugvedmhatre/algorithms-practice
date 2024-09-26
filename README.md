@@ -215,3 +215,4 @@ __1D Dynamic Programming__
 
 99. [Climbing Stairs](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/70-climbing_stairs.py)
 100. [Min Cost Climbing Stairs](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/746-min_cost_climbing_stairs.py)
+101. [House Robber](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/198-house_robber.py)
