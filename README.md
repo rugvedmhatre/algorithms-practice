@@ -217,3 +217,4 @@ __1D Dynamic Programming__
 100. [Min Cost Climbing Stairs](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/746-min_cost_climbing_stairs.py)
 101. [House Robber](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/198-house_robber.py)
 102. [House Robber II](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/213-house_robber-ii.py)
+103. [Longest Palindromic Substring](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/5-longest_palindromic_substring.py)
