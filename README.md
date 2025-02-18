@@ -57,6 +57,8 @@
 
 ### LeetCode 75
 
+__Array / String__
+
 1. [Merge Strings Alternately](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/1768-merge_strings_alternately.py)
 2. [Greatest Common Divisor of Strings](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/1071-greatest_common_divisor_of_strings.py)
 3. [Kids with the Greatest Number of Candies](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/1431-kids_with_the_greatest_number_of_candies.py)
@@ -66,12 +68,47 @@
 7. [Product of Array Except Self](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/238-product_of_array_except_self.py)
 8. [Increasing Triplet Sequence](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/334-increaasing_triplet_sequence.py)
 9. [String Compression](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/443-string_compression.py)
+
+__Two Pointers__
+
 10. [Move Zeros](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/283-move_zeros.py)
 11. [Is Subsequence](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/392-is_subsequence.py)
 12. [Container with Most Water](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/11-container_with_most_water.py)
 13. [Max Number of K-Sum Pairs](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/1679-max_number_of_k_sum_pairs.py)
+
+__Sliding Window__
+
 14. [Maximum Average Subarray I](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/643-maximum_average_subarray_1.py)
 15. [Maximum Number of Vowels in a Substring of Given Length](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/1456-maximum_number_of_vowels_in_a_substring_of_given_length.py)
+16. Max Consecutive Ones III
+17. Longest Subarray of 1's After Deleting One Element
+
+__Prefix Sum__
+
+18. Find the Highest Altitude
+19. Find Pivot Index
+
+__Hash Map / Set__
+
+20. Find the Difference of Two Arrays
+21. Unique Number of Occurences
+22. Determine if Two Strings are Close
+23. Equal Row and Column Pairs
+
+__Stack__
+
+24. Removing Stars from a String
+25. Asteroid Collision
+26. Decode String
+
+__Queue__
+
+27. Number of Recent Calls
+28. Dota2 Senate
+
+__Linked List__
+
+29. [Delete the Middle Node of a Linked List](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/2095-delete_the_middle_node_of_a_linked_list.py)
 
 ---
 
