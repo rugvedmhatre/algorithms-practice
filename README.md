@@ -113,6 +113,224 @@ __Linked List__
 31. [Reverse Linked List](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/206-reverse_linked_list.py)
 32. Maximum Twin Sum of a Linked List
 
+__Binary Tree - DFS__
+
+33. Maximum Depth of Binary Tree
+34. Leaf-Similar Trees
+35. Count Good Nodes in Binary Tree
+36. Path Sum III
+37. Longest ZigZag Path in a Binary Tree
+38. Lowest Common Ancestor of a Binary Tree
+
+__Binary Tree - BFS__
+
+39. Binary Tree Right Side View
+40. Maximum Level Sum of a Binary Tree
+
+__Binary Search Tree__
+
+41. Search in a Binary Search Tree
+42. Delete Node in a BST
+
+__Graphs - DFS__
+
+43. Keys and Rooms
+44. Number of Provinces
+45. Reorder Routes to Make All Paths Lead to the City Zero
+46. Evaluate Division
+
+__Graphs - BFS__
+
+47. Nearest Exit from Entrance in Maze
+48. Rotting Oranges
+
+__Heap/Priority Queue__
+
+49. Kth Largest Element in an Array
+50. Smallest Number in Infinite Set
+51. Maximum Subsequence Score
+52. Total Cost to Hire K Workers
+
+__Binary Search__
+
+53. Guess Number Higher or Lower
+54. Successfull Pairs of Spells and Potions
+55. Find Peak Element
+56. Koko Eating Bananas
+
+__Backtracking__
+
+57. Letter Combinations of a Phone Number
+58. Combination Sum III
+
+__DP - 1D__
+
+59. Nth Tribonacci Number
+60. Min Cost Climbing Stairs
+61. House Robber
+62. Domino and Tromino Tiling
+
+__DP - Multidimensional__
+
+63. Unique Paths
+64. Longest Common Subsequence
+65. Best Time to Buy and Sell Stock with Transaction Fee
+66. Edit Distance
+
+__Bit Manipulation__
+
+67. Counting Bits
+68. Single Number
+69. Maximum Flips to Make a OR b EQUAL to c
+
+__Trie__
+
+70. Implement Trie (Prefix Tree)
+71. Search Suggestions System
+
+__Intervals__
+
+72. Non-overlapping intervals
+73. Minimum Number of Arrows to Burst Balloons
+
+__Monotonic Stack__
+
+74. Daily Temperatures
+75. Online Stock Span
+
+---
+
+### NeetCode 75
+
+__Arrays & Hashing__
+
+1. [Contains Duplicate](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/217-contains_duplicate.py)
+2. [Valid Anagram](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/242-valid_anagram.py)
+3. [Two Sum](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/1-two_sum.py)
+4. [Group Anagrams](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/49-group_anagrams.py)
+5. [Top K Frequent Elements](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/347-top_k_frequent_elements.py)
+6. [Encode and Decode Strings](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/271-encode_and_decode_strings.py)
+7. [Product of Array Except Self](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/238-product_of_array_except_self.py)
+8. [Longest Consecutive Sequence](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/128-longest_consecutive_sequence.py)
+
+__Two Pointers__
+
+9. [Valid Palindrome](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/125-valid_palindrome.py)
+10. [3Sum](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/15-3Sum.py)
+11. [Container with Most Water](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/11-container_with_most_water.py)
+
+__Sliding Window__
+
+12. [Best Time to Buy and Sell Stock](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/121-best_time_to_buy_and_sell_stock.py)
+13. [Longest Substring Without Repeating Characters](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/3-longest_substring_without_repeating_characters.py)
+14. [Longest Repeating Character Replacement](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/424-longest_repeating_character_replacement.py)
+15. [Minimum Window Substring](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/76-minimum_window_substring.py)
+
+__Stack__
+
+16. [Valid Parentheses](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/20-valid_parentheses.py)
+
+__Binary Search__
+
+17. [Find Minimum in Rotated Sorted Array](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/153-find_minimum_in_rotated_sorted_array.py)
+18. [Search in Rotated Sorted Array](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/33-search_in_rotated_sorted_array.py)
+
+__Linked List__
+
+19. [Reverse Linked List](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/206-reverse_linked_list.py)
+20. [Merge Two Sorted Lists](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/21-merge_two_sorted_lists.py)
+21. [Linked List Cycle](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/141-linked_list_cycle.py)
+22. [Reorder List](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/143-reorder_list.py)
+23. [Remove Nth Node From End of List](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/19-remove_nth_node_from_end_of_list.py)
+24. [Merge K Sorted Lists](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/23-merge_k_sorted_lists.py)
+
+__Trees__
+
+25. [Invert Binary Tree](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/226-invert_binary_tree.py)
+26. [Maximum Depth of Binary Tree](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/104-maximum_depth_of_binary_tree.py)
+27. [Same Tree](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/100-same_tree.py)
+28. [Subtree of Another Tree](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/572-subtree_of_another_tree.py)
+29. [Lowest Common Ancestor of Binary Search Tree](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/235-lowest_common_ancestor_of_binary_search_tree.py)
+30. [Binary Tree Level Order Traversal](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/102-binary_tree_level_order_traversal.py)
+31. [Validate Binary Search Tree](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/98-validate_binary_search_tree.py)
+32. [Kth Smallest Element in BST](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/230-kth_smallest_element_in_bst.py)
+33. [Construct Binary Tree from Preorder and Inorder Traversal](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/105-construct_binary_tree_from_preorder_and_inorder_traversal.py)
+34. [Binary Tree Maximum Path Sum](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/124-binary_tree_maximum_path_sum.py)
+35. [Serialize and Deserialize Binary Tree](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/297-serialize_and_deserialize_binary_tree.py)
+
+__Heap/Priority Queue__
+
+36. [Find Median From Data Stream](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/295-find_median_from_data_stream.py)
+
+__Backtracking__
+
+37. [Combination Sum](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/39-combination_sum.py)
+38. [Word Search](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/79-word_search.py)
+
+__Tries__
+
+39. [Implement Trie (Prefix Tree)](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/208-implement_trie.py)
+40. [Design Add and Search Words Data Structure](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/211-design_add_and_search_words_data_structure.py)
+41. [Word Search II](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/212-word_search_ii.py)
+
+__Graphs__
+
+42. [Number of Islands](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/200-number_of_islands.py)
+43. [Clone Graph](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/133-clone_graph.py)
+44. [Pacific Atlantic Water Flow](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/417-pacific_atlantic_water_flow.py)
+45. [Course Schedule](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/207-course_schedule.py)
+46. [Graph Valid Tree](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/261-graph_valid_tree.py)
+47. [Number of Connected Components in an Undirected Graph](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/323-number_of_connected_components_in_an_undirected_graph.py)
+
+__Advanced Graphs__
+
+48. [Alien Dictionary](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/269-alien_dictionary.py)
+
+__1D Dynamic Programming__
+
+49. [Climbing Stairs](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/70-climbing_stairs.py)
+50. [House Robber](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/198-house_robber.py)
+51. [House Robber II](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/213-house_robber-ii.py)
+52. [Longest Palindromic Substring](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/5-longest_palindromic_substring.py)
+53. [Palindromic Substrings](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/647-palindromic_substrings.py)
+54. [Decode Ways](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/91-decode_ways.py)
+55. Coin Change
+56. Maximum Product Subarray
+57. Word Break
+58. Longest Increasing Subsequence
+
+__2D Dynamic Programming__
+
+59. Unique Paths
+60. Longest Commong Subsequence
+
+__Greedy__
+
+61. Maximum Subarray
+62. Jump Game
+
+__Intervals__
+
+63. Insert Interval
+64. Merge Intervals
+65. Non-Overlapping Intervals
+66. Meeting Rooms
+67. Meeting Rooms II
+
+__Math and Geometry__
+
+68. Rotate Image
+69. Spiral Matrix
+70. Set Matrix Zeroes
+
+__Bit Manipulation__
+
+71. Number of 1 Bits
+72. Counting Bits
+73. Reverse Bits
+74. Missing Number
+75. Sum of Two Intergers
+
 ---
 
 ### NeetCode 150
@@ -260,3 +478,63 @@ __1D Dynamic Programming__
 103. [Longest Palindromic Substring](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/5-longest_palindromic_substring.py)
 104. [Palindromic Substrings](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/647-palindromic_substrings.py)
 105. [Decode Ways](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/91-decode_ways.py)
+106. Coin Change
+107. Maximum Product Subarray
+108. Word Break
+109. Longest Increasing Subsequence
+110. Partition Equal Subset Sum
+
+__2D Dynamic Programming__
+
+111. Unique Paths
+112. Longest Commong Subsequence
+113. Best Time to Buy and Sell Stock with Cooldown
+114. Coin Change II
+115. Target Sum
+116. Interleaving String
+117. Longest Increasing Path in a Matrix
+118. Distinct Subsequences
+119. Edit Distance
+120. Burst Balloons
+121. Regular Expression Matching
+
+__Greedy__
+
+122. Maximum Subarray
+123. Jump Game
+124. Jump Game II
+125. Gas Station
+126. Hand of Straights
+127. Merge Triplets to Form Target Triplet
+128. Partition Labels
+129. Valid Parenthesis String
+
+__Intervals__
+
+130. Insert Interval
+131. Merge Intervals
+132. Non-Overlapping Intervals
+133. Meeting Rooms
+134. Meeting Rooms II
+135. Minimum Interval to Include Each Query
+
+__Math and Geometry__
+
+136. Rotate Image
+137. Spiral Matrix
+138. Set Matrix Zeroes
+139. Happy Number
+140. Plus One
+141. Pow(x, n)
+142. Multiply Strings
+143. Detect Squares
+
+__Bit Manipulation__
+
+144. Single Number
+145. Number of 1 Bits
+146. Counting Bits
+147. Reverse Bits
+148. Missing Number
+149. Sum of Two Intergers
+150. Reverse Integer
