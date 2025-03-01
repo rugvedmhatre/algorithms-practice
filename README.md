@@ -85,7 +85,7 @@ __Sliding Window__
 
 __Prefix Sum__
 
-18. Find the Highest Altitude
+18. [Find the Highest Altitude](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/1732-find_the_highest_altitude.py)
 19. Find Pivot Index
 
 __Hash Map / Set__
