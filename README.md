@@ -81,7 +81,7 @@ __Sliding Window__
 14. [Maximum Average Subarray I](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/643-maximum_average_subarray_1.py)
 15. [Maximum Number of Vowels in a Substring of Given Length](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/1456-maximum_number_of_vowels_in_a_substring_of_given_length.py)
 16. [Max Consecutive Ones III](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/1004-max_consecutive_ones_iii.py)
-17. Longest Subarray of 1's After Deleting One Element
+17. [Longest Subarray of 1's After Deleting One Element](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/1493-longest_subarray_of_1s_after_deleting_one_element.py)
 
 __Prefix Sum__
 
