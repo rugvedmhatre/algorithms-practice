@@ -543,6 +543,9 @@ __Bit Manipulation__
 
 __Arrays__
 
+*Easy*
+- [Merge Two 2D Arrays by Summing Values](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/2570-merge_two_2d_arrays_by_summing_values.py)
+
 *Medium*
 
 - [Partition Array According to Given Pivot](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/2161-partition_array_according_to_given_pivot.py)
