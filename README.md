@@ -538,3 +538,11 @@ __Bit Manipulation__
 148. Missing Number
 149. Sum of Two Intergers
 150. Reverse Integer
+
+### Other Problems
+
+__Arrays__
+
+*Medium*
+
+- [Partition Array According to Given Pivot](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/2161-partition_array_according_to_given_pivot.py)
