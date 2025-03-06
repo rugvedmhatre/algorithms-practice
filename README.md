@@ -547,6 +547,7 @@ __Arrays__
 
 - [Apply Operations to an Array](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/2460-apply_operations_to_an_array.py)
 - [Merge Two 2D Arrays by Summing Values](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/2570-merge_two_2d_arrays_by_summing_values.py)
+- [Find Missing and Repeated Values](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/2965-find_missing_and_repeated_values.py)
 
 *Medium*
 
