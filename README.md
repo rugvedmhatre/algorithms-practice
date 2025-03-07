@@ -97,7 +97,7 @@ __Hash Map / Set__
 
 __Stack__
 
-24. Removing Stars from a String
+24. [Removing Stars from a String](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/2390-removing_stars_from_a_string.py)
 25. Asteroid Collision
 26. Decode String
 
