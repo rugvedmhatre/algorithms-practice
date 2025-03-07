@@ -91,7 +91,7 @@ __Prefix Sum__
 __Hash Map / Set__
 
 20. [Find the Difference of Two Arrays](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/2215-find_the_difference_of_two_arrays.py)
-21. Unique Number of Occurences
+21. [Unique Number of Occurences](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/1207-unique_number_of_occurrences.py)
 22. Determine if Two Strings are Close
 23. Equal Row and Column Pairs
 
