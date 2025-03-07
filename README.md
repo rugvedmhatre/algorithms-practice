@@ -115,16 +115,16 @@ __Linked List__
 
 __Binary Tree - DFS__
 
-33. Maximum Depth of Binary Tree
+33. [Maximum Depth of Binary Tree](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/104-maximum_depth_of_binary_tree.py)
 34. Leaf-Similar Trees
-35. Count Good Nodes in Binary Tree
+35. [Count Good Nodes in Binary Tree](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/1448-count_good_nodes_in_binary_tree.py)
 36. Path Sum III
 37. Longest ZigZag Path in a Binary Tree
 38. Lowest Common Ancestor of a Binary Tree
 
 __Binary Tree - BFS__
 
-39. Binary Tree Right Side View
+39. [Binary Tree Right Side View](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/199-binary_tree_right_side_view.py)
 40. Maximum Level Sum of a Binary Tree
 
 __Binary Search Tree__
@@ -142,11 +142,11 @@ __Graphs - DFS__
 __Graphs - BFS__
 
 47. Nearest Exit from Entrance in Maze
-48. Rotting Oranges
+48. [Rotting Oranges](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/994-rotting_oranges.py)
 
 __Heap/Priority Queue__
 
-49. Kth Largest Element in an Array
+49. [Kth Largest Element in an Array](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/215-kth_largest_element_in_an_array.py)
 50. Smallest Number in Infinite Set
 51. Maximum Subsequence Score
 52. Total Cost to Hire K Workers
@@ -156,18 +156,18 @@ __Binary Search__
 53. Guess Number Higher or Lower
 54. Successfull Pairs of Spells and Potions
 55. Find Peak Element
-56. Koko Eating Bananas
+56. [Koko Eating Bananas](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/875-koko_eating_bananas.py)
 
 __Backtracking__
 
-57. Letter Combinations of a Phone Number
+57. [Letter Combinations of a Phone Number](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/17-letter_combinations_of_a_phone_number.py)
 58. Combination Sum III
 
 __DP - 1D__
 
 59. Nth Tribonacci Number
-60. Min Cost Climbing Stairs
-61. House Robber
+60. [Min Cost Climbing Stairs](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/746-min_cost_climbing_stairs.py)
+61. [House Robber](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/198-house_robber.py)
 62. Domino and Tromino Tiling
 
 __DP - Multidimensional__
@@ -185,7 +185,7 @@ __Bit Manipulation__
 
 __Trie__
 
-70. Implement Trie (Prefix Tree)
+70. [Implement Trie (Prefix Tree)](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/208-implement_trie.py)
 71. Search Suggestions System
 
 __Intervals__
@@ -195,7 +195,7 @@ __Intervals__
 
 __Monotonic Stack__
 
-74. Daily Temperatures
+74. [Daily Temperatures](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/739-daily_temperatures.py)
 75. Online Stock Span
 
 ---
