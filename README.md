@@ -104,7 +104,7 @@ __Stack__
 __Queue__
 
 27. [Number of Recent Calls](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/933-number_of_recent_calls.py)
-28. Dota2 Senate
+28. [Dota2 Senate](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/649-dota2_senate.py)
 
 __Linked List__
 
