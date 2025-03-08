@@ -99,7 +99,7 @@ __Stack__
 
 24. [Removing Stars from a String](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/2390-removing_stars_from_a_string.py)
 25. [Asteroid Collision](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/735-asteroid_collision.py)
-26. Decode String
+26. [Decode String](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/394-decode_string.py)
 
 __Queue__
 
