@@ -119,7 +119,7 @@ __Binary Tree - DFS__
 34. [Leaf-Similar Trees](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/872-leafsimilar_trees.py)
 35. [Count Good Nodes in Binary Tree](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/1448-count_good_nodes_in_binary_tree.py)
 36. [Path Sum III](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/437-path_sum_iii.py)
-37. Longest ZigZag Path in a Binary Tree
+37. [Longest ZigZag Path in a Binary Tree](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/1372-longest_zigzag_path_in_a_binary_tree.py)
 38. Lowest Common Ancestor of a Binary Tree
 
 __Binary Tree - BFS__
