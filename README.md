@@ -125,7 +125,7 @@ __Binary Tree - DFS__
 __Binary Tree - BFS__
 
 39. [Binary Tree Right Side View](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/199-binary_tree_right_side_view.py)
-40. Maximum Level Sum of a Binary Tree
+40. [Maximum Level Sum of a Binary Tree](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/1161-maximum_level_sum_of_a_binary_tree.py)
 
 __Binary Search Tree__
 
