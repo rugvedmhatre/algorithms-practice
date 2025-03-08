@@ -111,7 +111,7 @@ __Linked List__
 29. [Delete the Middle Node of a Linked List](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/2095-delete_the_middle_node_of_a_linked_list.py)
 30. [Odd Even Linked List](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/328-odd_even_linked_list.py)
 31. [Reverse Linked List](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/206-reverse_linked_list.py)
-32. Maximum Twin Sum of a Linked List
+32. [Maximum Twin Sum of a Linked List](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/2130-maximum_twin_sum_of_a_linked_list.py)
 
 __Binary Tree - DFS__
 
