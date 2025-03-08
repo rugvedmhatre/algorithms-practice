@@ -553,6 +553,12 @@ __Arrays__
 
 - [Partition Array According to Given Pivot](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/2161-partition_array_according_to_given_pivot.py)
 
+__Sliding Window__
+
+*Easy*
+
+- [Minimum Recolors to Get K Consecutive Black Blocks](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/2379-minimum_recolors_to_get_k_consecutive_black_blocks.py)
+
 __Math__
 
 *Medium*
