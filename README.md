@@ -116,7 +116,7 @@ __Linked List__
 __Binary Tree - DFS__
 
 33. [Maximum Depth of Binary Tree](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/104-maximum_depth_of_binary_tree.py)
-34. Leaf-Similar Trees
+34. [Leaf-Similar Trees](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/872-leafsimilar_trees.py)
 35. [Count Good Nodes in Binary Tree](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/1448-count_good_nodes_in_binary_tree.py)
 36. Path Sum III
 37. Longest ZigZag Path in a Binary Tree
