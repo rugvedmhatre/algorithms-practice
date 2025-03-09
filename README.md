@@ -559,6 +559,10 @@ __Sliding Window__
 
 - [Minimum Recolors to Get K Consecutive Black Blocks](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/2379-minimum_recolors_to_get_k_consecutive_black_blocks.py)
 
+*Medium*
+
+- [Alternating Groups II](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/3208-alternating_groups_ii.py)
+
 __Math__
 
 *Medium*
