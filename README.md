@@ -566,6 +566,12 @@ _Medium_
 - [Count of Substrings Containing Every Vowel and K Consonants II](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/3306-count_of_substrings_containing_every_vowel_and_k_consonants_ii.py)
 - [Number of Substrings Containing All Three Characters](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/1358-number_of_substrings_containing_all_three_characters.py)
 
+**Binary Search**
+
+_Easy_
+
+- [Maximum Count of Positive Integer and Negative Integer](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/2529-maximum_count_of_positive_integer_and_negative_integer.py)
+
 **Math**
 
 _Medium_
