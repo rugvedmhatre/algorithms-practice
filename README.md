@@ -572,6 +572,10 @@ _Easy_
 
 - [Maximum Count of Positive Integer and Negative Integer](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/2529-maximum_count_of_positive_integer_and_negative_integer.py)
 
+_Medium_
+
+- [Zero Array Transformation II](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/3356-zero_array_transformation_ii.py)
+
 **Math**
 
 _Medium_
