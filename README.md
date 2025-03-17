@@ -576,6 +576,7 @@ _Medium_
 
 - [Zero Array Transformation II](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/3356-zero_array_transformation_ii.py)
 - [Maximum Candies Allocated to K Children](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/2226-maximum_candies_allocated_to_k_children.py)
+- [House Robber IV](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/2560-house_robber_iv.py)
 
 **Math**
 
