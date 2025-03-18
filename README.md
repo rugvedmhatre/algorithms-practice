@@ -566,6 +566,7 @@ _Medium_
 - [Alternating Groups II](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/3208-alternating_groups_ii.py)
 - [Count of Substrings Containing Every Vowel and K Consonants II](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/3306-count_of_substrings_containing_every_vowel_and_k_consonants_ii.py)
 - [Number of Substrings Containing All Three Characters](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/1358-number_of_substrings_containing_all_three_characters.py)
+- [Longest Nice Subarray](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/2401-longest_nice_subarray.py)
 
 **Binary Search**
 
