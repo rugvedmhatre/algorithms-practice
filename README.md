@@ -594,6 +594,7 @@ _Medium_
 
 _Medium_
 
+- [Find All Possible Recipes from Given Supplies](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/2115-find_all_possible_recipes_from_given_supplies.py)
 - [Count the Number of Complete Components](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/2685-count_the_number_of_complete_components.py)
 
 _Hard_
