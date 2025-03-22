@@ -592,6 +592,10 @@ _Medium_
 
 **Graphs**
 
+_Medium_
+
+- [Count the Number of Complete Components](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/2685-count_the_number_of_complete_components.py)
+
 _Hard_
 
 - [Minimum Cost Walk in Weighted Graph](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/3108-minimum_cost_walk_in_weighted_graph.py)
