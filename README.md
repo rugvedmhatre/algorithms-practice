@@ -582,6 +582,12 @@ _Medium_
 - [House Robber IV](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/2560-house_robber_iv.py)
 - [Minimum Time to Repair Cars](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/2594-minimum_time_to_repair_cars.py)
 
+**Intervals**
+
+_Medium_
+
+- [Count Days Without Meetings](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/3169-count_days_without_meetings.py)
+
 **Math**
 
 _Medium_
