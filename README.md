@@ -587,6 +587,7 @@ _Medium_
 _Medium_
 
 - [Count Days Without Meetings](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/3169-count_days_without_meetings.py)
+- [Check if Grid can be Cut into Sections](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/3394-check_if_grid_can_be_cut_into_sections.py)
 
 **Math**
 
