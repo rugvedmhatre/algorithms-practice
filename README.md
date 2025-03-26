@@ -554,6 +554,7 @@ _Easy_
 _Medium_
 
 - [Partition Array According to Given Pivot](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/2161-partition_array_according_to_given_pivot.py)
+- [Minimum Operations to Make a Uni-Value Grid](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/2033-minimum_operations_to_make_a_univalue_grid.py)
 
 **Sliding Window**
 
