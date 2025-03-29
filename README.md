@@ -589,6 +589,7 @@ _Medium_
 _Hard_
 
 - [Maximum Number of Points From Grid Queries](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/2503-maximum_number_of_points_from_grid_queries.py)
+- [Apply Operations to Maximize Score](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/2818-apply_operations_to_maximize_score.py)
 
 **Graphs**
 
