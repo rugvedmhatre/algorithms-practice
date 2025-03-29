@@ -584,6 +584,24 @@ _Medium_
 - [House Robber IV](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/2560-house_robber_iv.py)
 - [Minimum Time to Repair Cars](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/2594-minimum_time_to_repair_cars.py)
 
+**Heap/Priority Queue**
+
+_Hard_
+
+- [Maximum Number of Points From Grid Queries](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/2503-maximum_number_of_points_from_grid_queries.py)
+
+**Graphs**
+
+_Medium_
+
+- [Find All Possible Recipes from Given Supplies](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/2115-find_all_possible_recipes_from_given_supplies.py)
+- [Count the Number of Complete Components](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/2685-count_the_number_of_complete_components.py)
+- [Number of Ways to Arrive at Destination](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/1976-number_of_ways_to_arrive_at_destination.py)
+
+_Hard_
+
+- [Minimum Cost Walk in Weighted Graph](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/3108-minimum_cost_walk_in_weighted_graph.py)
+
 **Intervals**
 
 _Medium_
@@ -598,15 +616,3 @@ _Medium_
 - [Check if Number is a Sum of Powers of Three](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/1780-check_if_number_is_a_sum_of_powers_of_three.py)
 - [Count Total Number of Colored Cells](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/2579-count_total_number_of_colored_cells.py)
 - [Closest Prime Numbers in Range](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/2523-closest_prime_numbers_in_range.py)
-
-**Graphs**
-
-_Medium_
-
-- [Find All Possible Recipes from Given Supplies](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/2115-find_all_possible_recipes_from_given_supplies.py)
-- [Count the Number of Complete Components](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/2685-count_the_number_of_complete_components.py)
-- [Number of Ways to Arrive at Destination](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/1976-number_of_ways_to_arrive_at_destination.py)
-
-_Hard_
-
-- [Minimum Cost Walk in Weighted Graph](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/3108-minimum_cost_walk_in_weighted_graph.py)
