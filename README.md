@@ -571,6 +571,12 @@ _Medium_
 - [Longest Nice Subarray](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/2401-longest_nice_subarray.py)
 - [Minimum Operations to Make Binary Array Elements Equal to One I](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/3191-minimum_operations_to_make_binary_array_elements_equal_to_one_i.py)
 
+**Hashmap**
+
+_Medium_
+
+- [Partition Labels](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/763-partition_labels.py)
+
 **Binary Search**
 
 _Easy_
