@@ -571,7 +571,7 @@ _Medium_
 - [Longest Nice Subarray](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/2401-longest_nice_subarray.py)
 - [Minimum Operations to Make Binary Array Elements Equal to One I](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/3191-minimum_operations_to_make_binary_array_elements_equal_to_one_i.py)
 
-**Hashmap**
+**Hash Map / Set**
 
 _Medium_
 
@@ -608,6 +608,12 @@ _Medium_
 _Hard_
 
 - [Minimum Cost Walk in Weighted Graph](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/3108-minimum_cost_walk_in_weighted_graph.py)
+
+**Greedy**
+
+_Hard_
+
+- [Put Marbles in Bags](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/2551-put_marbles_in_bags.py)
 
 **Intervals**
 
