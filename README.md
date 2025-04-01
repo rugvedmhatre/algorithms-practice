@@ -609,6 +609,12 @@ _Hard_
 
 - [Minimum Cost Walk in Weighted Graph](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/3108-minimum_cost_walk_in_weighted_graph.py)
 
+**1D Dynamic Programming**
+
+_Medium_
+
+- [Solving Questions With Brainpower](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/2140-solving_questions_with_brainpower.py)
+
 **Greedy**
 
 _Hard_
