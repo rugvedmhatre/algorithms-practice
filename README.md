@@ -591,6 +591,12 @@ _Medium_
 - [House Robber IV](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/2560-house_robber_iv.py)
 - [Minimum Time to Repair Cars](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/2594-minimum_time_to_repair_cars.py)
 
+**Trees**
+
+_Medium_
+
+- [Lowest Common Ancestor of Deepest Leaves](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/1123-lowest_common_ancestor_of_deepest_leaves.py)
+
 **Heap/Priority Queue**
 
 _Hard_
