@@ -557,6 +557,7 @@ _Medium_
 - [Partition Array According to Given Pivot](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/2161-partition_array_according_to_given_pivot.py)
 - [Minimum Operations to Make a Uni-Value Grid](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/2033-minimum_operations_to_make_a_univalue_grid.py)
 - [Minimum Index of a Valid Split](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/2780-minimum_index_of_a_valid_split.py)
+- [Maximum Value of an Ordered Triplet II](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/2874-maximum_value_of_an_ordered_triplet_ii.py)
 
 **Sliding Window**
 
