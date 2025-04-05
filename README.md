@@ -643,3 +643,9 @@ _Medium_
 - [Check if Number is a Sum of Powers of Three](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/1780-check_if_number_is_a_sum_of_powers_of_three.py)
 - [Count Total Number of Colored Cells](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/2579-count_total_number_of_colored_cells.py)
 - [Closest Prime Numbers in Range](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/2523-closest_prime_numbers_in_range.py)
+
+**Bit Manipulation**
+
+_Easy_
+
+- [Sum of All Subset XOR Totals](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/1863-sum_of_all_subset_xor_totals.py)
