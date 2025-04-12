@@ -575,6 +575,10 @@ _Medium_
 
 **Hash Map / Set**
 
+_Easy_
+
+- [Minimum Number of Operations to Make Elements in Array Distinct](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/3396-minimum_number_of_operations_to_make_elements_in_array_distinct.py)
+
 _Medium_
 
 - [Partition Labels](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/763-partition_labels.py)
