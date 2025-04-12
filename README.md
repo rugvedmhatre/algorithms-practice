@@ -578,6 +578,7 @@ _Medium_
 _Easy_
 
 - [Minimum Number of Operations to Make Elements in Array Distinct](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/3396-minimum_number_of_operations_to_make_elements_in_array_distinct.py)
+- [Minimum Operations to Make Array Values Equal to K](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/3375-minimum_operations_to_make_array_values_equal_to_k.py)
 
 _Medium_
 
