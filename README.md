@@ -650,6 +650,10 @@ _Medium_
 - [Count Total Number of Colored Cells](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/2579-count_total_number_of_colored_cells.py)
 - [Closest Prime Numbers in Range](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/2523-closest_prime_numbers_in_range.py)
 
+_Hard_
+
+- [Count the Number of Powerful Integers](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/2999-count_the_number_of_powerful_integers.py)
+
 **Bit Manipulation**
 
 _Easy_
