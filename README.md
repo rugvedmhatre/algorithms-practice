@@ -644,6 +644,10 @@ _Medium_
 
 **Math**
 
+_Easy_
+
+- [Count Symmetric Integers](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/2843-count_symmetric_integers.py)
+
 _Medium_
 
 - [Check if Number is a Sum of Powers of Three](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/1780-check_if_number_is_a_sum_of_powers_of_three.py)
