@@ -2,9 +2,9 @@
 
 https://leetcode.com/problems/partition-equal-subset-sum/
 
-Given an integer array nums, return true if you can partition the 
-array into two subsets such that the sum of the elements in both 
-subsets is equal or false otherwise.
+Given an integer array nums, return true if you can partition the array into two subsets such that
+the sum of the elements in both subsets is equal or false otherwise.
+ 
 
 Example 1:
 Input: nums = [1,5,11,5]
@@ -42,9 +42,11 @@ def canPartition(nums: list[int]) -> bool:
     
     return True if target in dp else False
 
-if __name__ == '__main__':
+if __name__ == "__main__":
+    # Test Case 1
     nums = [1, 5, 11, 5]
     print(canPartition(nums))  # Output is True
 
+    # Test Case 2
     nums = [1, 2, 3, 5]
     print(canPartition(nums))  # Output is False

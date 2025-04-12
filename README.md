@@ -483,7 +483,7 @@
 107. Maximum Product Subarray
 108. Word Break
 109. Longest Increasing Subsequence
-110. Partition Equal Subset Sum
+110. [Partition Equal Subset Sum](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/416-partition_equal_subset_sum.py)
 
 **2D Dynamic Programming**
 
