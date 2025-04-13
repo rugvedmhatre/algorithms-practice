@@ -552,6 +552,7 @@ _Easy_
 - [Divide Array Into Equal Pairs](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/2206-divide_array_into_equal_pairs.py)
 - [Maximum Value of an Ordered Triplet I](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/2873-maximum_value_of_an_ordered_triplet_i.py)
 - [Rotate String](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/796-rotate_string.py)
+- [Missing Number](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/268-missing_number.py)
 
 _Medium_
 
