@@ -542,7 +542,7 @@
 
 ### Other Problems
 
-**Arrays**
+**Array / String**
 
 _Easy_
 
@@ -551,6 +551,7 @@ _Easy_
 - [Find Missing and Repeated Values](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/2965-find_missing_and_repeated_values.py)
 - [Divide Array Into Equal Pairs](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/2206-divide_array_into_equal_pairs.py)
 - [Maximum Value of an Ordered Triplet I](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/2873-maximum_value_of_an_ordered_triplet_i.py)
+- [Rotate String](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/796-rotate_string.py)
 
 _Medium_
 
