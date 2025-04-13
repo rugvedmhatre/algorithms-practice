@@ -560,6 +560,10 @@ _Medium_
 - [Minimum Index of a Valid Split](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/2780-minimum_index_of_a_valid_split.py)
 - [Maximum Value of an Ordered Triplet II](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/2874-maximum_value_of_an_ordered_triplet_ii.py)
 
+_Hard_
+
+- [Valid Number](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/65-valid_number.py)
+
 **Sliding Window**
 
 _Easy_
