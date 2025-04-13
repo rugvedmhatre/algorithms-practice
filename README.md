@@ -635,6 +635,12 @@ _Medium_
 - [Solving Questions With Brainpower](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/2140-solving_questions_with_brainpower.py)
 - [Largest Divisible Subset](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/368-largest_divisible_subset.py)
 
+**2D Dynamic Programming**
+
+_Medium_
+
+- [Longest Palindromic Subsequence](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/516-longest_palindromic_subsequence.py)
+
 **Greedy**
 
 _Hard_
