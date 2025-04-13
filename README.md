@@ -594,6 +594,7 @@ _Medium_
 _Easy_
 
 - [Maximum Count of Positive Integer and Negative Integer](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/2529-maximum_count_of_positive_integer_and_negative_integer.py)
+- [First Bad Version](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/278-first_bad_version.py)
 
 _Medium_
 
