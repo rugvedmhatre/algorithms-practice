@@ -553,6 +553,7 @@ _Easy_
 - [Maximum Value of an Ordered Triplet I](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/2873-maximum_value_of_an_ordered_triplet_i.py)
 - [Rotate String](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/796-rotate_string.py)
 - [Missing Number](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/268-missing_number.py)
+- [Count Good Triplets](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/1534-count_good_triplets.py)
 
 _Medium_
 
