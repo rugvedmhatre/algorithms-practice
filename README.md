@@ -565,6 +565,7 @@ _Medium_
 _Hard_
 
 - [Valid Number](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/65-valid_number.py)
+- [Count Good Triplets in an Array](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/2179-count_good_triplets_in_an_array.py)
 
 **Sliding Window**
 
