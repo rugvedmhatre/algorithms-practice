@@ -554,6 +554,7 @@ _Easy_
 - [Rotate String](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/796-rotate_string.py)
 - [Missing Number](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/268-missing_number.py)
 - [Count Good Triplets](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/1534-count_good_triplets.py)
+- [Count Equal and Divisible Pairs in an Array](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/2176-count_equal_and_divisible_pairs_in_an_array.py)
 
 _Medium_
 
