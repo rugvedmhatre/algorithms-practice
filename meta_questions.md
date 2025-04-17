@@ -11,3 +11,9 @@ _Easy_
 _Medium_
 
 - [Minimum Remove to Make Valid Parentheses](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/1249-minimum_remove_to_make_valid_parentheses.py)
+
+## Heap/Priority Queue
+
+_Medium_
+
+- [K Closest Points to Origin](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/973-k_closest_points_to_origin.py)

@@ -2,15 +2,14 @@
 
 https://leetcode.com/problems/k-closest-points-to-origin/
 
-Given an array of points where points[i] = [xi, yi] represents 
-a point on the X-Y plane and an integer k, return the k 
-closest points to the origin (0, 0).
+Given an array of points where points[i] = [xi, yi] represents a point on the X-Y plane and an 
+integer k, return the k closest points to the origin (0, 0).
 
-The distance between two points on the X-Y plane is the 
-Euclidean distance (i.e., sqrt((x1 - x2)^2 + (y1 - y2)^2)).
+The distance between two points on the X-Y plane is the Euclidean distance 
+(i.e., sqrt((x1 - x2)^2 + (y1 - y2)^2)).
 
-You may return the answer in any order. The answer is 
-guaranteed to be unique (except for the order that it is in).
+You may return the answer in any order. The answer is guaranteed to be unique (except for the order
+that it is in).
  
 
 Example 1:
@@ -51,6 +50,12 @@ def kClosest(points: list[list[int]], k: int) -> list[list[int]]:
     return result
 
 if __name__ == '__main__':
+    # Test Case 1
     points = [[1,3],[-2,2]]
     k = 1
+    print(kClosest(points, k))
+
+    # Test Case 2
+    points = [[3,3],[5,-1],[-2,4]]
+    k = 2
     print(kClosest(points, k))
