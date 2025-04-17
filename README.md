@@ -540,6 +540,8 @@
 149. Sum of Two Intergers
 150. Reverse Integer
 
+---
+
 ### Other Problems
 
 **Array / String**
@@ -555,6 +557,7 @@ _Easy_
 - [Missing Number](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/268-missing_number.py)
 - [Count Good Triplets](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/1534-count_good_triplets.py)
 - [Count Equal and Divisible Pairs in an Array](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/2176-count_equal_and_divisible_pairs_in_an_array.py)
+- [Verifying an Alien Dictionary](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/953-verifying_an_alien_dictionary.py)
 
 _Medium_
 
@@ -682,3 +685,9 @@ _Hard_
 _Easy_
 
 - [Sum of All Subset XOR Totals](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/1863-sum_of_all_subset_xor_totals.py)
+
+---
+
+## Company Wise LeetCode Questions List
+
+1. [Meta](https://github.com/rugvedmhatre/algorithms-practice/blob/main/meta_questions.md)
