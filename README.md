@@ -565,6 +565,7 @@ _Medium_
 - [Minimum Operations to Make a Uni-Value Grid](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/2033-minimum_operations_to_make_a_univalue_grid.py)
 - [Minimum Index of a Valid Split](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/2780-minimum_index_of_a_valid_split.py)
 - [Maximum Value of an Ordered Triplet II](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/2874-maximum_value_of_an_ordered_triplet_ii.py)
+- [Minimum Remove to Make Valid Parentheses](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/1249-minimum_remove_to_make_valid_parentheses.py)
 
 _Hard_
 
@@ -690,4 +691,4 @@ _Easy_
 
 ## Company Wise LeetCode Questions List
 
-1. [Meta](https://github.com/rugvedmhatre/algorithms-practice/blob/main/meta_questions.md)
+- [Meta/Facebook](https://github.com/rugvedmhatre/algorithms-practice/blob/main/meta_questions.md)
