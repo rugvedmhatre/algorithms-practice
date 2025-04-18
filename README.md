@@ -626,6 +626,12 @@ _Hard_
 - [Maximum Number of Points From Grid Queries](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/2503-maximum_number_of_points_from_grid_queries.py)
 - [Apply Operations to Maximize Score](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/2818-apply_operations_to_maximize_score.py)
 
+**Backtracking**
+
+_Hard_
+
+- [Remove Invalid Parentheses](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/301-remove_invalid_parentheses.py)
+
 **Graphs**
 
 _Medium_

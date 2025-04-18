@@ -18,3 +18,9 @@ _Medium_
 _Medium_
 
 - [K Closest Points to Origin](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/973-k_closest_points_to_origin.py)
+
+## Backtracking
+
+_Hard_
+
+- [Remove Invalid Parentheses](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/301-remove_invalid_parentheses.py)
