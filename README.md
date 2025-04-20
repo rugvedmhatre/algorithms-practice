@@ -612,6 +612,7 @@ _Medium_
 - [Maximum Candies Allocated to K Children](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/2226-maximum_candies_allocated_to_k_children.py)
 - [House Robber IV](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/2560-house_robber_iv.py)
 - [Minimum Time to Repair Cars](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/2594-minimum_time_to_repair_cars.py)
+- [Count the Number of Fair Pairs](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/2563-count_the_number_of_fair_pairs.py)
 
 **Trees**
 
