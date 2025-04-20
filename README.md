@@ -660,6 +660,10 @@ _Medium_
 
 **Greedy**
 
+_Medium_
+
+- [Rabbits in Forest](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/781-rabbits_in_forest.py)
+
 _Hard_
 
 - [Put Marbles in Bags](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/2551-put_marbles_in_bags.py)
