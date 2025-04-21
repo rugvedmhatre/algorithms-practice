@@ -588,6 +588,12 @@ _Medium_
 - [Minimum Operations to Make Binary Array Elements Equal to One I](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/3191-minimum_operations_to_make_binary_array_elements_equal_to_one_i.py)
 - [Count the Number of Good Subarrays](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/2537-count_the_number_of_good_subarrays.py)
 
+**Prefix Sum**
+
+_Medium_
+
+- [Count the Hidden Sequences](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/2145-count_the_hidden_sequences.py)
+
 **Hash Map / Set**
 
 _Easy_
