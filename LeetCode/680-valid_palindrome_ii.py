@@ -2,9 +2,9 @@
 
 https://leetcode.com/problems/valid-palindrome-ii/
 
-Given a string s, return true if the s can be palindrome after 
-deleting at most one character from it.
- 
+Given a string s, return true if the s can be palindrome after deleting at most one character from 
+it. 
+
 
 Example 1:
 Input: s = "aba"
@@ -40,11 +40,14 @@ def validPalindrome(s: str) -> bool:
     return True
 
 if __name__ == "__main__":
+    # Test Case 1
     s = "aba"
     print(validPalindrome(s)) # True
 
+    # Test Case 2
     s = "abca"
     print(validPalindrome(s)) # True
 
+    # Test Case 3
     s = "abc"
     print(validPalindrome(s)) # False

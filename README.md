@@ -559,6 +559,7 @@ _Easy_
 - [Count Equal and Divisible Pairs in an Array](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/2176-count_equal_and_divisible_pairs_in_an_array.py)
 - [Verifying an Alien Dictionary](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/953-verifying_an_alien_dictionary.py)
 - [Count and Say](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/38-count_and_say.py)
+- [Valid Palindrome II](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/680-valid_palindrome_ii.py)
 
 _Medium_
 
