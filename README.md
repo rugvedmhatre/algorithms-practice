@@ -594,6 +594,7 @@ _Medium_
 _Medium_
 
 - [Count the Hidden Sequences](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/2145-count_the_hidden_sequences.py)
+- [Subarray Sum Equals K](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/560-subarray_sum_equals_k.py)
 
 **Hash Map / Set**
 
