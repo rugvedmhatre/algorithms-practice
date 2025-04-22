@@ -8,6 +8,7 @@ _Easy_
 
 - [Verifying an Alien Dictionary](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/953-verifying_an_alien_dictionary.py)
 - [Valid Palindrome II](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/680-valid_palindrome_ii.py)
+- [Merge Sorted Array](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/88-merge_sorted_array.py)
 
 _Medium_
 
