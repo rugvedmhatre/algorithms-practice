@@ -569,6 +569,7 @@ _Medium_
 - [Minimum Index of a Valid Split](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/2780-minimum_index_of_a_valid_split.py)
 - [Maximum Value of an Ordered Triplet II](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/2874-maximum_value_of_an_ordered_triplet_ii.py)
 - [Minimum Remove to Make Valid Parentheses](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/1249-minimum_remove_to_make_valid_parentheses.py)
+- [Buildings With an Ocean View](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/1762-buildings_with_an_ocean_view.py)
 
 _Hard_
 
