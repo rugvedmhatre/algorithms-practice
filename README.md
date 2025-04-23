@@ -634,6 +634,7 @@ _Medium_
 _Medium_
 
 - [Lowest Common Ancestor of Deepest Leaves](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/1123-lowest_common_ancestor_of_deepest_leaves.py)
+- [Find Leaves of Binary Tree](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/366-find_leaves_of_binary_tree.py)
 
 **Heap/Priority Queue**
 
