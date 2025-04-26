@@ -615,6 +615,7 @@ _Easy_
 _Medium_
 
 - [Partition Labels](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/763-partition_labels.py)
+- [Count Complete Subarrays in an Array](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/2799-count_complete_subarrays_in_an_array.py)
 
 **Binary Search**
 
