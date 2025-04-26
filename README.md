@@ -575,6 +575,7 @@ _Hard_
 
 - [Valid Number](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/65-valid_number.py)
 - [Count Good Triplets in an Array](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/2179-count_good_triplets_in_an_array.py)
+- [Count Subarrays With Fixed Bounds](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/2444-count_subarrays_with_fixed_bounds.py)
 
 **Sliding Window**
 
