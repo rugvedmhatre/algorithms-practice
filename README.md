@@ -669,6 +669,10 @@ _Medium_
 - [Solving Questions With Brainpower](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/2140-solving_questions_with_brainpower.py)
 - [Largest Divisible Subset](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/368-largest_divisible_subset.py)
 
+_Hard_
+
+- [Count the Number of Ideal Arrays](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/2338-count_the_number_of_ideal_arrays.py)
+
 **2D Dynamic Programming**
 
 _Medium_
