@@ -131,7 +131,7 @@
 **Binary Search Tree**
 
 41. [Search in a Binary Search Tree](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/700-search_in_a_binary_search_tree.py)
-42. Delete Node in a BST
+42. [Delete Node in a BST](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/450-delete_node_in_a_bst.py)
 
 **Graphs - DFS**
 
