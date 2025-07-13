@@ -137,7 +137,7 @@
 
 43. [Keys and Rooms](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/841-keys_and_rooms.py)
 44. [Number of Provinces](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/547-number_of_provinces.py)
-45. Reorder Routes to Make All Paths Lead to the City Zero
+45. [Reorder Routes to Make All Paths Lead to the City Zero](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/1466-reorder_routes_to_make_all_paths_lead_to_the_city_zero.py)
 46. Evaluate Division
 
 **Graphs - BFS**
