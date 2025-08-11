@@ -15,7 +15,7 @@ _Medium_
 - [Minimum Remove to Make Valid Parentheses](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/1249-minimum_remove_to_make_valid_parentheses.py)
 - [Product of Array Except Self](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/238-product_of_array_except_self.py)
 
-**Stack**
+## Stack
 
 _Medium_
 
