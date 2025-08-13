@@ -33,3 +33,9 @@ _Easy_
 _Easy_
 
 - [Subtree of Another Tree](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/572-subtree_of_another_tree.py)
+
+## Graphs
+
+_Easy_
+
+- [Flood Fill](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/733-flood_fill.py)
