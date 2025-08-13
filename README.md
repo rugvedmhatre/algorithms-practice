@@ -728,4 +728,5 @@ _Easy_
 
 ## Company Wise LeetCode Questions List
 
+- [Amazon](https://github.com/rugvedmhatre/algorithms-practice/blob/main/amazon_questions.md)
 - [Meta/Facebook](https://github.com/rugvedmhatre/algorithms-practice/blob/main/meta_questions.md)
