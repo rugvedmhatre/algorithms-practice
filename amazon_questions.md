@@ -28,6 +28,7 @@ _Easy_
 _Easy_
 
 - [Merge Two Sorted Lists](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/21-merge_two_sorted_lists.py)
+- [Design HashMap](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/706-design_hashmap.py)
 
 ## Trees
 
