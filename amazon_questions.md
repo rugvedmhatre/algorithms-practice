@@ -22,6 +22,7 @@ _Easy_
 
 - [Valid Parentheses](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/20-valid_parentheses.py)
 - [Min Stack](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/155-min_stack.py)
+- [Next Greater Element I](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/496-next_greater_element_i.py)
 
 ## Linked List
 
