@@ -21,6 +21,7 @@ _Easy_
 _Easy_
 
 - [Valid Parentheses](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/20-valid_parentheses.py)
+- [Min Stack](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/155-min_stack.py)
 
 ## Linked List
 
@@ -39,3 +40,9 @@ _Easy_
 _Easy_
 
 - [Flood Fill](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/733-flood_fill.py)
+
+## Greedy
+
+_Easy_
+
+- [Maximum Subarray](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/53-maximum_subarray.py)

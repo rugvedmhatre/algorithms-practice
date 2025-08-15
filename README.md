@@ -307,7 +307,7 @@
 
 **Greedy**
 
-61. Maximum Subarray
+61. [Maximum Subarray](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/53-maximum_subarray.py)
 62. Jump Game
 
 **Intervals**
@@ -501,7 +501,7 @@
 
 **Greedy**
 
-122. Maximum Subarray
+122. [Maximum Subarray](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/53-maximum_subarray.py)
 123. Jump Game
 124. Jump Game II
 125. Gas Station
