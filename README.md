@@ -685,6 +685,10 @@ _Medium_
 
 **Greedy**
 
+_Easy_
+
+- [Maximum 69 Number](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/1323-maximum_69_number.py)
+
 _Medium_
 
 - [Rabbits in Forest](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/781-rabbits_in_forest.py)
