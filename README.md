@@ -326,7 +326,7 @@
 
 **Bit Manipulation**
 
-71. Number of 1 Bits
+71. [Number of 1 Bits](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/191-number_of_1_bits.py)
 72. Counting Bits
 73. Reverse Bits
 74. Missing Number
@@ -533,7 +533,7 @@
 **Bit Manipulation**
 
 144. Single Number
-145. Number of 1 Bits
+145. [Number of 1 Bits](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/191-number_of_1_bits.py)
 146. Counting Bits
 147. Reverse Bits
 148. Missing Number

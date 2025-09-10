@@ -30,12 +30,14 @@ _Easy_
 
 - [Merge Two Sorted Lists](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/21-merge_two_sorted_lists.py)
 - [Design HashMap](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/706-design_hashmap.py)
+- [Reverse Linked List](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/206-reverse_linked_list.py)
 
 ## Trees
 
 _Easy_
 
 - [Subtree of Another Tree](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/572-subtree_of_another_tree.py)
+- [Diameter of Binary Tree](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/543-diameter_of_binary_tree.py)
 
 ## Graphs
 
