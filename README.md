@@ -180,7 +180,7 @@
 
 **Bit Manipulation**
 
-67. Counting Bits
+67. [Counting Bits](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/338-counting_bits.py)
 68. Single Number
 69. Maximum Flips to Make a OR b EQUAL to c
 
@@ -327,7 +327,7 @@
 **Bit Manipulation**
 
 71. [Number of 1 Bits](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/191-number_of_1_bits.py)
-72. Counting Bits
+72. [Counting Bits](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/338-counting_bits.py)
 73. Reverse Bits
 74. Missing Number
 75. Sum of Two Intergers
@@ -534,7 +534,7 @@
 
 144. Single Number
 145. [Number of 1 Bits](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/191-number_of_1_bits.py)
-146. Counting Bits
+146. [Counting Bits](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/338-counting_bits.py)
 147. Reverse Bits
 148. Missing Number
 149. Sum of Two Intergers
