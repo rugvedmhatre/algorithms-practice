@@ -329,7 +329,7 @@
 71. [Number of 1 Bits](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/191-number_of_1_bits.py)
 72. [Counting Bits](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/338-counting_bits.py)
 73. Reverse Bits
-74. Missing Number
+74. [Missing Number](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/268-missing_number.py)
 75. Sum of Two Intergers
 
 ---
@@ -536,7 +536,7 @@
 145. [Number of 1 Bits](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/191-number_of_1_bits.py)
 146. [Counting Bits](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/338-counting_bits.py)
 147. Reverse Bits
-148. Missing Number
+148. [Missing Number](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/268-missing_number.py)
 149. Sum of Two Intergers
 150. Reverse Integer
 
@@ -554,7 +554,6 @@ _Easy_
 - [Divide Array Into Equal Pairs](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/2206-divide_array_into_equal_pairs.py)
 - [Maximum Value of an Ordered Triplet I](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/2873-maximum_value_of_an_ordered_triplet_i.py)
 - [Rotate String](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/796-rotate_string.py)
-- [Missing Number](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/268-missing_number.py)
 - [Count Good Triplets](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/1534-count_good_triplets.py)
 - [Count Equal and Divisible Pairs in an Array](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/2176-count_equal_and_divisible_pairs_in_an_array.py)
 - [Verifying an Alien Dictionary](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/953-verifying_an_alien_dictionary.py)
