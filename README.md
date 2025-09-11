@@ -618,6 +618,7 @@ _Medium_
 
 - [Partition Labels](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/763-partition_labels.py)
 - [Count Complete Subarrays in an Array](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/2799-count_complete_subarrays_in_an_array.py)
+- [Pairs of Songs With Total Durations Divisible by 60](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/1010-pairs_of_songs_with_total_durations_divisible_by_60.py)
 
 **Binary Search**
 

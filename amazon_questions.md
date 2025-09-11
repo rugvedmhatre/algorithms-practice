@@ -28,6 +28,12 @@ _Easy_
 - [Min Stack](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/155-min_stack.py)
 - [Next Greater Element I](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/496-next_greater_element_i.py)
 
+## Hash Map / Set
+
+_Medium_
+
+- [Pairs of Songs With Total Durations Divisible by 60](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/1010-pairs_of_songs_with_total_durations_divisible_by_60.py)
+
 ## Linked List
 
 _Easy_
