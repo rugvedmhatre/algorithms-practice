@@ -10,6 +10,10 @@ _Easy_
 - [Two Sum](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/1-two_sum.py)
 - [Two Sum Less Than K](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/1099-two_sum_less_than_k.py)
 
+_Medium_
+
+- [Word Break](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/139-word_break.py)
+
 _Hard_
 
 - [Longest Valid Parentheses](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/32-longest_valid_parentheses.py)
