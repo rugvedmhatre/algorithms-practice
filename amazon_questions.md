@@ -13,6 +13,7 @@ _Easy_
 _Medium_
 
 - [Word Break](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/139-word_break.py)
+- [Insert Delete GetRandom O(1)](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/380-insert_delete_getrandom_o1.py)
 
 _Hard_
 
