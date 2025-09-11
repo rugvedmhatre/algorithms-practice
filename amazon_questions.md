@@ -49,6 +49,10 @@ _Easy_
 - [Subtree of Another Tree](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/572-subtree_of_another_tree.py)
 - [Diameter of Binary Tree](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/543-diameter_of_binary_tree.py)
 
+_Medium_
+
+- [All Nodes Distance K in Binary Tree](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/863-all_nodes_distance_k_in_binary_tree.py)
+
 ## Graphs
 
 _Easy_
