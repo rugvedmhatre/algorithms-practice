@@ -644,6 +644,7 @@ _Medium_
 - [Lowest Common Ancestor of Deepest Leaves](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/1123-lowest_common_ancestor_of_deepest_leaves.py)
 - [Find Leaves of Binary Tree](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/366-find_leaves_of_binary_tree.py)
 - [All Nodes Distance K in Binary Tree](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/863-all_nodes_distance_k_in_binary_tree.py)
+- [Binary Tree Zigzag Level Order Traversal](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/103-binary_tree_zigzag_level_order_traversal.py)
 
 **Heap/Priority Queue**
 
