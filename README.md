@@ -328,7 +328,7 @@
 
 71. [Number of 1 Bits](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/191-number_of_1_bits.py)
 72. [Counting Bits](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/338-counting_bits.py)
-73. Reverse Bits
+73. [Reverse Bits](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/190-reverse_bits.py)
 74. [Missing Number](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/268-missing_number.py)
 75. Sum of Two Intergers
 
@@ -535,7 +535,7 @@
 144. Single Number
 145. [Number of 1 Bits](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/191-number_of_1_bits.py)
 146. [Counting Bits](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/338-counting_bits.py)
-147. Reverse Bits
+147. [Reverse Bits](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/190-reverse_bits.py)
 148. [Missing Number](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/268-missing_number.py)
 149. Sum of Two Intergers
 150. Reverse Integer
