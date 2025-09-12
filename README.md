@@ -637,6 +637,10 @@ _Medium_
 - [Minimum Time to Repair Cars](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/2594-minimum_time_to_repair_cars.py)
 - [Count the Number of Fair Pairs](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/2563-count_the_number_of_fair_pairs.py)
 
+_Hard_
+
+- [Split Array Largest Sum](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/410-split_array_largest_sum.py)
+
 **Trees**
 
 _Medium_

@@ -39,6 +39,12 @@ _Medium_
 
 - [Pairs of Songs With Total Durations Divisible by 60](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/1010-pairs_of_songs_with_total_durations_divisible_by_60.py)
 
+## Binary Search
+
+_Hard_
+
+- [Split Array Largest Sum](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/410-split_array_largest_sum.py)
+
 ## Linked List
 
 _Easy_
