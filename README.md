@@ -652,6 +652,10 @@ _Medium_
 
 **Heap/Priority Queue**
 
+_Medium_
+
+- [Car Pooling](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/1094-car_pooling.py)
+
 _Hard_
 
 - [Maximum Number of Points From Grid Queries](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/2503-maximum_number_of_points_from_grid_queries.py)

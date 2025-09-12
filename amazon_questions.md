@@ -67,9 +67,13 @@ _Medium_
 
 ## Heap/Priority Queue
 
+_Medium_
+
+- [Car Pooling](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/1094-car_pooling.py)
+
 _Hard_
 
-[Find Median From Data Stream](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/295-find_median_from_data_stream.py)
+- [Find Median From Data Stream](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/295-find_median_from_data_stream.py)
 
 ## Graphs
 
