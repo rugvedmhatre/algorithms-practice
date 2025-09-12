@@ -701,6 +701,7 @@ _Medium_
 _Hard_
 
 - [Put Marbles in Bags](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/2551-put_marbles_in_bags.py)
+- [Minimum Number of Refueling Stops](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/871-minimum_number_of_refueling_stops.py)
 
 **Intervals**
 

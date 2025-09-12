@@ -70,3 +70,7 @@ _Easy_
 _Easy_
 
 - [Maximum Subarray](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/53-maximum_subarray.py)
+
+_Hard_
+
+- [Minimum Number of Refueling Stops](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/871-minimum_number_of_refueling_stops.py)
