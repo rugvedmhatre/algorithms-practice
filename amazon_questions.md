@@ -59,6 +59,12 @@ _Medium_
 - [All Nodes Distance K in Binary Tree](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/863-all_nodes_distance_k_in_binary_tree.py)
 - [Binary Tree Zigzag Level Order Traversal](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/103-binary_tree_zigzag_level_order_traversal.py)
 
+## Heap/Priority Queue
+
+_Hard_
+
+[Find Median From Data Stream](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/295-find_median_from_data_stream.py)
+
 ## Graphs
 
 _Easy_
