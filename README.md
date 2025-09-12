@@ -571,6 +571,7 @@ _Medium_
 - [Buildings With an Ocean View](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/1762-buildings_with_an_ocean_view.py)
 - [Word Break](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/139-word_break.py)
 - [Insert Delete GetRandom O(1)](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/380-insert_delete_getrandom_o1.py)
+- [Next Permutation](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/31-next_permutation.py)
 
 _Hard_
 
