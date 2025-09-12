@@ -504,7 +504,7 @@
 122. [Maximum Subarray](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/53-maximum_subarray.py)
 123. Jump Game
 124. Jump Game II
-125. Gas Station
+125. [Gas Station](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/134-gas_station.py)
 126. Hand of Straights
 127. Merge Triplets to Form Target Triplet
 128. Partition Labels
