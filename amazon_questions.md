@@ -39,6 +39,7 @@ _Easy_
 _Medium_
 
 - [Pairs of Songs With Total Durations Divisible by 60](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/1010-pairs_of_songs_with_total_durations_divisible_by_60.py)
+- [Contiguous Array](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/525-contiguous_array.py)
 
 ## Binary Search
 
@@ -88,6 +89,7 @@ _Easy_
 _Medium_
 
 - [Kill Process](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/582-kill_process.py)
+- [Clone Graph](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/133-clone_graph.py)
 
 ## Greedy
 
