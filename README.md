@@ -652,6 +652,7 @@ _Medium_
 - [Binary Tree Zigzag Level Order Traversal](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/103-binary_tree_zigzag_level_order_traversal.py)
 - [Maximum Product of Splitted Binary Tree](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/1339-maximum_product_of_splitted_binary_tree.py)
 - [Validate Binary Search Tree](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/98-validate_binary_search_tree.py)
+- [Most Frequent Subtree Sum](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/508-most_frequent_subtree_sum.py)
 
 **Heap/Priority Queue**
 
