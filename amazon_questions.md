@@ -96,6 +96,7 @@ _Easy_
 _Medium_
 
 - [Gas Station](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/134-gas_station.py)
+- [Maximum Length of Subarray With Positive Product](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/1567-maximum_length_of_subarray_with_positive_product.py)
 
 _Hard_
 

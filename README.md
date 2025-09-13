@@ -708,6 +708,7 @@ _Easy_
 _Medium_
 
 - [Rabbits in Forest](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/781-rabbits_in_forest.py)
+- [Maximum Length of Subarray With Positive Product](https://github.com/rugvedmhatre/algorithms-practice/blob/main/LeetCode/1567-maximum_length_of_subarray_with_positive_product.py)
 
 _Hard_
 
